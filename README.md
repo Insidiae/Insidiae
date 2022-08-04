@@ -82,7 +82,7 @@ I'm currently at [Round 1](https://github.com/Insidiae/perpetual-testing-initiat
 
 Here's the latest project I'm doing as part of this round:
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Insidiae&repo=fullstack-d3-react&theme=dracula)](https://github.com/Insidiae/fullstack-d3-react)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Insidiae&repo=crwn-clothing&theme=dracula)](https://github.com/Insidiae/crwn-clothing)
 
 ## 🔥 Some fun stats
 
