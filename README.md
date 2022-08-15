@@ -30,6 +30,8 @@ I'm an online course enthusiast working to improve my skills and level up my car
   <summary>I also do:</summary>
   <p>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" title="TypeScript" alt="TypeScript" width="40" height="40" />&nbsp;
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" title="Redux" alt="Redux" width="40" height="40" />&nbsp;
+    <img src="https://raw.githubusercontent.com/bestofjs/bestofjs-webui/master/public/logos/remix.svg" title="Remix" alt="Remix" width="40" height="40" />&nbsp;
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" title="Jest" alt="Jest" width="40" height="40" />&nbsp;
     <img src="https://api.iconify.design/logos:testing-library.svg?color=%23888888" title="Testing Library" alt="Testing Library" width="40" height="40" />&nbsp;
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" title="Firebase" alt="Firebase" width="40" height="40" />&nbsp;
@@ -47,9 +49,8 @@ I'm an online course enthusiast working to improve my skills and level up my car
 <details>
   <summary>I'm currently learning:</summary>
   <p>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-plain.svg" title="Rust" alt="Rust" width="40" height="40" />&nbsp;
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" title="GraphQL" alt="GraphQL" width="40" height="40" />&nbsp;
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" title="Redux" alt="Redux" width="40" height="40" />&nbsp;
-    <img src="https://raw.githubusercontent.com/bestofjs/bestofjs-webui/master/public/logos/remix.svg" title="Remix" alt="Remix" width="40" height="40" />&nbsp;
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/embeddedc/embeddedc-original.svg" title="Embedded C" alt="Embedded C" width="40" height="40" />&nbsp;
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" title="C++" alt="C++" width="40" height="40" />&nbsp;
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" title="Arduino" alt="Arduino" width="40" height="40" />&nbsp;
@@ -66,10 +67,10 @@ I'm an online course enthusiast working to improve my skills and level up my car
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" title="Angular" alt="Angular" width="40" height="40" />&nbsp;
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" title="Next.js" alt="Next.js" width="40" height="40" />&nbsp;
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/storybook/storybook-original.svg" title="Storybook" alt="Storybook" width="40" height="40" />&nbsp;
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" title="PyTorch" alt="PyTorch" width="40" height="40" />&nbsp;
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" title="PostgreSQL" alt="PostgreSQL" width="40" height="40" />&nbsp;
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" title="C#" alt="C#" width="40" height="40" />&nbsp;
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" title="Unity" alt="Unity" width="40" height="40" />&nbsp;
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-plain.svg" title="Rust" alt="Rust" width="40" height="40" />&nbsp;
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" title="R" alt="R" width="40" height="40" />&nbsp;
   </p>
 </details>
@@ -82,7 +83,7 @@ I'm currently at [Round 1](https://github.com/Insidiae/perpetual-testing-initiat
 
 Here's the latest project I'm doing as part of this round:
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Insidiae&repo=crwn-clothing&theme=dracula)](https://github.com/Insidiae/crwn-clothing)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Insidiae&repo=ztm-rust&theme=dracula)](https://github.com/Insidiae/ztm-rust)
 
 ## 🔥 Some fun stats
 
