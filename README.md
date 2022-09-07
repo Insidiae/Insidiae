@@ -18,6 +18,7 @@ I'm an online course enthusiast working to improve my skills and level up my car
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" title="HTML" alt="HTML" width="40" height="40" />&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" title="CSS" alt="CSS" width="40" height="40" />&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" title="Javascript" alt="Javascript" width="40" height="40" />&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" title="TypeScript" alt="TypeScript" width="40" height="40" />&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" title="Sass" alt="Sass" width="40" height="40" />&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" title="MongoDB" alt="MongoDB" width="40" height="40" />&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" title="Express" alt="Express" width="40" height="40" />&nbsp;
@@ -29,7 +30,7 @@ I'm an online course enthusiast working to improve my skills and level up my car
 <details>
   <summary>I also do:</summary>
   <p>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" title="TypeScript" alt="TypeScript" width="40" height="40" />&nbsp;
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-plain.svg" title="NestJS" alt="NestJS" width="40" height="40" />&nbsp;
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" title="Redux" alt="Redux" width="40" height="40" />&nbsp;
     <img src="https://raw.githubusercontent.com/bestofjs/bestofjs-webui/master/public/logos/remix.svg" title="Remix" alt="Remix" width="40" height="40" />&nbsp;
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" title="Jest" alt="Jest" width="40" height="40" />&nbsp;
@@ -83,7 +84,7 @@ I'm currently at [Round 1](https://github.com/Insidiae/perpetual-testing-initiat
 
 Here's the latest project I'm doing as part of this round:
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Insidiae&repo=ztm-rust&theme=dracula)](https://github.com/Insidiae/ztm-rust)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Insidiae&repo=warbler-2022&theme=dracula)](https://github.com/Insidiae/warbler-2022)
 
 ## 🔥 Some fun stats
 
