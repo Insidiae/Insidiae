@@ -30,9 +30,10 @@ I'm an online course enthusiast working to improve my skills and level up my car
 <details>
   <summary>I also do:</summary>
   <p>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-plain.svg" title="NestJS" alt="NestJS" width="40" height="40" />&nbsp;
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" title="Redux" alt="Redux" width="40" height="40" />&nbsp;
     <img src="https://raw.githubusercontent.com/bestofjs/bestofjs-webui/master/public/logos/remix.svg" title="Remix" alt="Remix" width="40" height="40" />&nbsp;
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" title="Redux" alt="Redux" width="40" height="40" />&nbsp;
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-plain.svg" title="NestJS" alt="NestJS" width="40" height="40" />&nbsp;
+    <img src="https://raw.githubusercontent.com/bestofjs/bestofjs-webui/master/public/logos/astro.svg" title="Astro" alt="Astro" width="40" height="40" />&nbsp;
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" title="Jest" alt="Jest" width="40" height="40" />&nbsp;
     <img src="https://api.iconify.design/logos:testing-library.svg?color=%23888888" title="Testing Library" alt="Testing Library" width="40" height="40" />&nbsp;
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" title="Firebase" alt="Firebase" width="40" height="40" />&nbsp;
