@@ -4,8 +4,8 @@
 
 I'm an online course enthusiast working to improve my skills and level up my career.
 
-- 🔭 Currently exploring a bunch of technologies to use for my university thesis next year.
-- ⚡ In my free time I binge online courses and build lots of fun and interesting projects.
+- 🏋️ Currently working on various projects and studying relevant technologies to improve my personal tech stack.
+- ⚡ In my free time I binge online courses and workshops, often tweaking the course projects to use other technologies I'm interested in.
 - 📫 Get in touch:
   - [![Twitter Follow](https://img.shields.io/twitter/follow/insidiae423?style=social)](https://twitter.com/insidiae423)
   - [![Linkedin Badge](https://img.shields.io/badge/-insidiae423-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/insidiae423/)
@@ -31,6 +31,7 @@ I'm an online course enthusiast working to improve my skills and level up my car
   <summary>I also do:</summary>
   <p>
     <img src="https://raw.githubusercontent.com/bestofjs/bestofjs-webui/master/public/logos/remix.svg" title="Remix" alt="Remix" width="40" height="40" />&nbsp;
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" title="Next.js" alt="Next.js" width="40" height="40" />&nbsp;
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" title="Redux" alt="Redux" width="40" height="40" />&nbsp;
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-plain.svg" title="NestJS" alt="NestJS" width="40" height="40" />&nbsp;
     <img src="https://raw.githubusercontent.com/bestofjs/bestofjs-webui/master/public/logos/astro.svg" title="Astro" alt="Astro" width="40" height="40" />&nbsp;
@@ -51,9 +52,26 @@ I'm an online course enthusiast working to improve my skills and level up my car
 <details>
   <summary>I'm currently learning:</summary>
   <p>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/threejs/threejs-original.svg" title="Three.js" alt="Three.js" width="40" height="40" />&nbsp;
+    <img src="https://raw.githubusercontent.com/bestofjs/bestofjs-webui/develop/public/logos/trpc.svg" title="TRPC" alt="TRPC" width="40" height="40" />&nbsp;
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" title="PostgreSQL" alt="PostgreSQL" width="40" height="40" />&nbsp;
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" title="GraphQL" alt="GraphQL" width="40" height="40" />&nbsp;
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-plain.svg" title="Rust" alt="Rust" width="40" height="40" />&nbsp;
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" title="PyTorch" alt="PyTorch" width="40" height="40" />&nbsp;
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" title="GraphQL" alt="GraphQL" width="40" height="40" />&nbsp;
+  </p>
+</details>
+
+<details>
+  <summary>I'm interested in:</summary>
+  <p>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" title="Vue.js" alt="Vue.js" width="40" height="40" />&nbsp;
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/svelte/svelte-original.svg" title="Svelte" alt="Svelte" width="40" height="40" />&nbsp;
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" title="Angular" alt="Angular" width="40" height="40" />&nbsp;
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/storybook/storybook-original.svg" title="Storybook" alt="Storybook" width="40" height="40" />&nbsp;
+    <img src="https://raw.githubusercontent.com/bestofjs/bestofjs-webui/develop/public/logos/vitest.svg" title="Vitest" alt="Vitest" width="40" height="40" />&nbsp;
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" title="C#" alt="C#" width="40" height="40" />&nbsp;
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" title="Unity" alt="Unity" width="40" height="40" />&nbsp;
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" title="R" alt="R" width="40" height="40" />&nbsp;
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/embeddedc/embeddedc-original.svg" title="Embedded C" alt="Embedded C" width="40" height="40" />&nbsp;
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" title="C++" alt="C++" width="40" height="40" />&nbsp;
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" title="Arduino" alt="Arduino" width="40" height="40" />&nbsp;
@@ -61,31 +79,15 @@ I'm an online course enthusiast working to improve my skills and level up my car
   </p>
 </details>
 
-<details>
-  <summary>I'm interested in:</summary>
-  <p>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/threejs/threejs-original.svg" title="Three.js" alt="Three.js" width="40" height="40" />&nbsp;
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" title="Vue.js" alt="Vue.js" width="40" height="40" />&nbsp;
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/svelte/svelte-original.svg" title="Svelte" alt="Svelte" width="40" height="40" />&nbsp;
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" title="Angular" alt="Angular" width="40" height="40" />&nbsp;
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" title="Next.js" alt="Next.js" width="40" height="40" />&nbsp;
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/storybook/storybook-original.svg" title="Storybook" alt="Storybook" width="40" height="40" />&nbsp;
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" title="PostgreSQL" alt="PostgreSQL" width="40" height="40" />&nbsp;
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" title="C#" alt="C#" width="40" height="40" />&nbsp;
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" title="Unity" alt="Unity" width="40" height="40" />&nbsp;
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" title="R" alt="R" width="40" height="40" />&nbsp;
-  </p>
-</details>
-
 ## 🛠️ What I'm working on
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Insidiae&repo=perpetual-testing-initiative&theme=dracula)](https://github.com/Insidiae/perpetual-testing-initiative)
+Here's the latest project I'm working on:
 
-I'm currently at [Round 1](https://github.com/Insidiae/perpetual-testing-initiative/tree/main/Round%201) of the #100DaysOfCode challenge! This round, I've curated a self-learning curriculum of online courses abount various topics and technologies I'm interested in to build up the tech stack I plan to use for my university thesis, and also to level up my career.
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Insidiae&repo=threejs-journey-checkpoints&theme=dracula)](https://github.com/Insidiae/threejs-journey-checkpoints)
 
-Here's the latest project I'm doing as part of this round:
+I also like to work through online courses and workshops in my free time, mainly as a way of supplementing myself with lots of project ideas that I can use my preferred tech stack on while having a good reference on which features to build. Here's a showcase of courses I've completed, along with notable projects I've made along the way:
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Insidiae&repo=warbler-2022&theme=dracula)](https://github.com/Insidiae/warbler-2022)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Insidiae&repo=course-certs&theme=dracula)](https://github.com/Insidiae/course-certs)
 
 ## 🔥 Some fun stats
 
